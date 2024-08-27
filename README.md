@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/999a4c38-e595-4b74-be86-c12542059eda)
+
 # Two-Player Board Game with Flask, React, and Socket.IO
 
 This project is a real-time, two-player board game built using Flask for the backend, React for the frontend, and Socket.IO for real-time communication. The game allows players to join from different locations, place their pieces on a grid, and move them according to specified rules.
