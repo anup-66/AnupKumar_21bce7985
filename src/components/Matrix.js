@@ -125,15 +125,7 @@ const MatrixDisplay = () => {
         setSelectedPiece({ row: rowIndex, col: colIndex ,piece: matrix[rowIndex][colIndex][3],playerId:playerId});
         console.log(selectedPiece);
       }
-      // else if (selectedPiece && matrix[rowIndex][colIndex] === "") {
-      //   // Move the selected piece
-      //   socket.emit("move_piece", {
-      //     selectedPiece:selectedPiece,
-      //     rule:
-      //   });
-      //   setSelectedPiece(null);
-      //   // setTurn()
-      // }
+
     }
 
   };
